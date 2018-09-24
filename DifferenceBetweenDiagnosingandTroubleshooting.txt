@@ -1,0 +1,27 @@
+			Research and explain the difference between the processes of diagnosing and troubleshooting in terms of software development
+
+Introduction
+-
+-
+-
+Body
+-
+-
+-
+Conclusion
+diagnosing is a precursor to troubleshooting. -DifferenceBetween.net
+
+diagnosing a computer needs to happen before you can proceed to troubleshooting in order to determine where to look for the problem. | DifferenceBetween.net
+The act of diagnosing a computer involves observing how it functions to find out the exact problem. | DifferenceBetween.net
+The goal in diagnosing a computer is to isolate the problem to a specific subsystem of the computer. | DifferenceBetween.net
+Diagnosing is an attempt at finding the problem by looking at the symptoms while troubleshooting attempts a fix via a systematic check of parts | DifferenceBetween.net
+
+Trouble Shooting
+
+troubleshooting is a systematic process where each component that is possibly faulty would be checked to see whether it is the one causing problems or not. | DifferenceBetween.net
+
+Software troubleshooting is the process of scanning, identifying, diagnosing and resolving problems, errors and bugs in software.
+It is a systematic process that aims to filter out and resolve problems, and restore the software to normal operation. | Techopedia.com
+
+
+diagnosing
