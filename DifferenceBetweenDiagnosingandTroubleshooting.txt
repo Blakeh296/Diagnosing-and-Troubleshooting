@@ -1,4 +1,4 @@
-			Research and explain the difference between the processes of diagnosing and troubleshooting in terms of software development
+ 			Research and explain the difference between the processes of diagnosing and troubleshooting in terms of software development
 
 Introduction
 -
